@@ -2,6 +2,7 @@ echo "Hello World!" = consoles out the word "Hello World!"
 
 mkdir NAME_OF_DIR = makes a new Directory (make sure that the name you made for your Directory has not been used by other Directories)
 cd DIR = move to a Directory
+cd .. = moves to a previous Directory
 dir = lists all the files / folders inside the Directory
 
 cat FILE = makes a file
